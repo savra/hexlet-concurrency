@@ -1,4 +1,4 @@
-package com.hvdbs.hexletconcurrency.e0;
+package com.hvdbs.hexletconcurrency.m0.e0;
 
 public class MainWithThreads {
     public static void main(String[] args) throws InterruptedException {

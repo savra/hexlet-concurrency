@@ -1,4 +1,4 @@
-package com.hvdbs.hexletconcurrency.e0;
+package com.hvdbs.hexletconcurrency.m0.e0;
 
 public class MockLoader implements TextLoader {
     private final String textToLoad;
