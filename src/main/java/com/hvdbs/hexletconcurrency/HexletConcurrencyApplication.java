@@ -9,5 +9,4 @@ public class HexletConcurrencyApplication {
     public static void main(String[] args) {
         SpringApplication.run(HexletConcurrencyApplication.class, args);
     }
-
 }
